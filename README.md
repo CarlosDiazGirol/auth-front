@@ -30,18 +30,23 @@ Este frontend está desarrollado en **React** y se conecta a un backend con Node
 
 ## Estructura
 
+<pre>
 ├── src/
-│   ├── api/axiosConfig.js
+│   ├── api/
+│   │   └── axiosConfig.js
 │   ├── components/
 │   │   ├── LoginForm.jsx
 │   │   ├── RegisterForm.jsx
 │   │   └── Notes.jsx
-│   ├── context/AuthContext.jsx
+│   ├── context/
+│   │   └── AuthContext.jsx
 │   ├── pages/
-│   │   ├── Home.jsx          ← Página pública
-│   │   └── Dashboard.jsx     ← Página protegida con CRUD
+│   │   ├── Home.jsx         ← Página pública
+│   │   └── Dashboard.jsx    ← Página protegida con CRUD
 │   ├── App.jsx
 │   └── main.jsx
+</pre>
+
 
 ## Autenticación con Context API y Cookies
 
