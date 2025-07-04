@@ -15,7 +15,7 @@ Este frontend está desarrollado en **React** y se conecta a un backend con Node
 ---
 
 ### Backend
-- Repositorio: (https://github.com/CarlosDiazGirol/auth-back)[https://github.com/CarlosDiazGirol/auth-back] 
+- Repositorio: [https://github.com/CarlosDiazGirol/auth-back](https://github.com/CarlosDiazGirol/auth-back)
 
 ## Funcionalidades principales
 
